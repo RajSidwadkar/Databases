@@ -1,2 +1,2 @@
 # Databases
-This repo constitutes of implementation of various databases. 
+This repo constitutes implementation of various databases. 
